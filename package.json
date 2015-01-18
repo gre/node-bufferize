@@ -1,0 +1,26 @@
+{
+  "name": "bufferize",
+  "version": "1.0.0",
+  "description": "Bufferize a Node.js Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gre/node-bufferize.git"
+  },
+  "keywords": [
+    "bufferize",
+    "stream"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/node-bufferize/issues"
+  },
+  "homepage": "https://github.com/gre/node-bufferize",
+  "dependencies": {
+    "event-stream": "^3.2.1"
+  }
+}
